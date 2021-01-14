@@ -8,4 +8,6 @@ Thanks for reading..
 
 Watch tutorial on YouTube
 
-### This is the demo repo
+## Local Development
+
+1. Open index.html in your browser.
